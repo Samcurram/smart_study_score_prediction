@@ -14,7 +14,7 @@ This project involved:
 The dataset used was the [**Students Performance in Exams**].
 
 ## Results
-The model achieved an [**Your Metric: Your Score**], demonstrating a good ability to predict scores based on the given features.
+The model achieved an [8.90], demonstrating a good ability to predict scores based on the given features.
 
 ## How to Run
 1.  Clone the repository.
